@@ -1,0 +1,19 @@
+.tudo{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    position: absolute;
+}
+
+#butao{
+  cursor: pointer;
+  background-color: orange;
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+#ress{
+background-color: white;
+}
